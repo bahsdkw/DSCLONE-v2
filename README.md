@@ -1,4 +1,3 @@
-
 # DSCLONE-v2 🚀
 
 [![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/bahsdkw/DSCLONE-v2/releases)
@@ -22,7 +21,7 @@
 
 ## 📥 Установка
 
-1. Скачай последнюю версию **DSCLONE-v2.exe** из [раздела Releases](https://github.com/bahsdkw/DSCLONE/releases)
+1. Скачай последнюю версию **DSCLONE-v2.exe** из [раздела Releases](https://github.com/bahsdkw/DSCLONE-v2/releases)
 2. Помести файл в любую удобную папку (рекомендуется на рабочий стол)
 3. Запусти **DSCLONE-v2.exe** от имени администратора (рекомендуется)
 
